@@ -1,0 +1,245 @@
+body
+{
+	margin:0;
+	padding:0;
+	
+}
+
+#background
+{
+	position : fixed;
+	top :0;
+	left : 0;
+	z-index : -1;
+	width : 100%;
+}
+
+#retour
+{
+	background-color :  #2B7FAA;
+	width : 4%;
+	position : relative;
+	height : 20px;
+	border-width:3px;
+	border-style:solid;
+    border-color:  #8AD6FD;
+	border-radius : 10px;
+
+}
+
+#retour a
+{
+	position : relative;
+	color : #8AD6FD;
+	left : 9px;
+	font-family : Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	
+}
+
+#titre
+{
+	position : relative;
+	display : block;
+    margin : auto;
+	background-image : url("https://assets.website-files.com/615648d3a398bf728fba89dd/617c85411c789f8e0def8a23_blue-sky-elearn-welcomes-scott-a-west-as-chief-financial-officer.jpg");
+	border-style:solid;
+    border-color:  #C5FDFB;
+	border-radius : 30px;
+	width : 35%;
+}
+
+#titre h1
+{ 
+  position : relative;
+  font-size : 20px;
+  text-align: center;
+  color : white;
+  font-family : Arial Black;
+}
+
+
+
+section
+{
+	position : relative;
+	background-color :  #C5FDFB;
+	display : block;
+    margin : auto;
+	width : 70%;
+	top : 70px;
+	border-radius : 10px;
+	border-width:4px;
+	border-style:solid;
+    border-color:  #2F956B;
+	box-shadow:0px 0px 10px black;
+	
+}
+
+section h2
+{
+	position : relative;
+	text-align: center;
+	font-family : arial black;
+	color : #2362AE;
+}
+
+
+section p
+{
+	text-align: center;
+	font-family : Verdana, Geneva, sans-serif;
+}
+
+nav
+{
+	position : relative;
+	width : 83%;
+	top : 140px;
+	background-image : url("https://assets.website-files.com/615648d3a398bf728fba89dd/617c85411c789f8e0def8a23_blue-sky-elearn-welcomes-scott-a-west-as-chief-financial-officer.jpg");
+	border-style:solid;
+    border-color: #C5FDFB;
+	box-shadow:0px 0px 10px black;
+    display : block;
+    margin : auto;
+}
+
+
+
+#ent1
+{
+	position : relative;
+	left : 2%;
+	background-color : #C5FDFB;
+	width : 43%;
+    box-shadow:0px 0px 10px black;
+}   
+
+#ent2
+{
+	position : absolute;
+	left : 55%;
+	background-color : #C5FDFB;
+	width : 43%;
+	bottom : 46%;
+    box-shadow:0px 0px 10px black;
+}  
+
+#etude
+{
+	position : fixed;
+	z-index : -1;
+	left : 42%;
+   
+}
+
+#etude img
+{
+	position : relative;
+	width : 90%;
+	bottom : 40px;
+	border-radius : 300px;
+	border-width:3px;
+	border-style:solid;
+    border-color:  #8AD6FD;
+}
+
+#etude2
+{
+	position : fixed;
+	z-index : -1;
+	left : 5%;
+   
+}
+
+#etude2 img
+{
+	position : relative;
+	width : 90%;
+	top: 30px;
+	border-radius :100%;
+	border-width:3px;
+	border-style:solid;
+    border-color:  #2F956B;
+}
+
+#etude3
+{
+	position : fixed;
+	z-index : -1;
+	left : 80%;
+   
+}
+
+#etude3 img
+{
+	position : relative;
+	width : 90%;
+	top: 30px;
+	border-radius : 100%;
+	border-width:3px;
+	border-style:solid;
+    border-color:  #2F956B;
+}
+
+nav h2
+{ 
+  position : relative;
+  text-align: center;
+  color : #630808;
+}
+
+nav p
+{
+	 position : relative;
+     text-align: center;
+	 font-family : Verdana, Geneva, sans-serif;
+}
+
+footer
+{
+	position : relative;
+	display : block;
+    margin : auto;
+	background-color : #C5FDFB;
+	width : 40%;
+	top : 190px;
+	text-align: center;
+	border-radius : 30px;
+	border-width:1px;
+	border-style:solid;
+    border-color: #2F956B;
+	box-shadow:0px 0px 10px black;
+}
+
+footer h2
+{
+	color : #2362AE;
+	font-family : Arial;
+}
+
+footer p
+{
+	font-family : Verdana, Geneva, sans-serif;
+}
+
+#chaine1 img
+{
+	position : relative;
+	width : 95%;
+	bottom : 10px;
+}
+
+#chaine2 img
+{
+	border-width:4px;
+	border-style:solid;
+    border-color: blue;
+}
+
+#ent1 h3
+{
+	position : relative;
+	left : 2%;
+	font-family : arial;
+}

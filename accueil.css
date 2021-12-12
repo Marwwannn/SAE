@@ -1,0 +1,298 @@
+body
+{
+	margin:0;
+	padding:0;
+	background-color : #EDFFE8;
+	
+	
+}
+
+
+
+
+
+#titre 
+{
+	background-color : #F2FFFA;
+	width : 23%;
+	height : 50px;
+	border-radius: 20px;
+	border-width:4px;
+	border-style:solid;
+    border-color: #4EB185;
+	
+
+	
+}
+
+#titre h2
+{
+	position : relative;
+	text-align: center;
+	bottom : 7px;
+	font-family:Arial black;
+	color : green;
+	font-size: 1.2em;
+}
+
+#nom 
+{
+	position : relative;
+    color : black;
+	font-size: 0.7em;
+}
+
+header
+{
+	position : relative;
+    background-image:url("https://media.istockphoto.com/photos/green-abstract-background-picture-id168367507?k=20&m=168367507&s=170667a&w=0&h=Fj7u9pWz_m3xa0r5JGES0PUcfWUAF-W4a6EOLSRo-qw=");
+	height : 80px;
+	width : 90%;
+	border-radius : 10px;
+	border-width:2px;
+	border-style:outset;
+    border-color:green;
+	display : block;
+    margin : auto;
+	box-shadow:0px 0px 10px black;
+   
+	
+
+}
+
+
+header ul
+{
+    list-style-type: none;
+    display: flex;
+	text-align: center;
+	
+	
+}
+
+header li
+{
+	
+    margin-right: 10%;
+	position : relative;
+	top : px;
+	border-width:4px;
+	border-style:outset;
+    border-color: green;
+	border-radius : 10px;
+	left : 3%;
+	background-image : url("https://img.freepik.com/free-vector/abstract-green-watercolor-texture-background_1055-7263.jpg?size=338&ext=jpg");
+}
+header a 
+{
+	color : green;
+	font-size: 12px;
+	font-family: system-ui;
+	position : relative;
+	bottom : 3px;
+	font-family : Verdana, Geneva, sans-serif;
+}
+
+section
+{
+	position : relative;
+	width : 90%;
+	height : 400px;
+	background-image:url("https://cdn.wallpapersafari.com/55/21/CIG250.jpg");
+	background-size : cover;
+	border-radius : 15px;
+	top : 20px;
+	display : block;
+    margin : auto;
+	box-shadow:0px 0px 10px green;
+}
+
+
+	
+
+
+
+#descrption
+{
+	position : relative;
+	width : 50%;
+    background-color : #ABFFAC;
+	top : 20px;
+	left : 3%;
+	border-width:4px;
+	border-style:solid;
+    border-color: #359F62;
+	box-shadow:0px 10px 60px black;
+
+	
+}
+
+section h2
+{
+	position : relative;
+	left : 2%;
+	top : 5px;
+	font-size: 20px;
+	font-family:arial;
+	color : green;
+}
+
+#descrption p
+{
+	position : relative;
+	left : 2%;
+	color : green;
+	font-family : Verdana, Geneva, sans-serif;
+	
+}
+
+#tech img 
+{ position : absolute;
+  left : 65%;
+  top : 22%;
+  width : 27%;
+  border-radius : 100%;
+  border-width:4px;
+  border-style:solid;
+  border-color: #296D49;
+   box-shadow:0px 0px 100px black;
+ }
+ 
+ nav
+ {
+	 position : relative;
+	 width : 90%;
+	 top : 50px;
+	 left : 2%;
+	 
+	 
+ }
+ 
+ 
+ #entreprise1
+ {
+	 
+	 position : absolute;
+	 width : 45%;
+	 background-image : url("https://i.pinimg.com/originals/87/dd/9d/87dd9d1dba5c68cf531761cb4cfa6779.jpg");
+	 left : 2%;
+	 border-radius : 10px;
+	 box-shadow:0px 0px 70px black;
+	 
+ }
+ 
+ #entreprise2
+ {
+	 
+	 position : absolute;
+	 width : 45%;
+	 background-image : url("https://i.pinimg.com/originals/87/dd/9d/87dd9d1dba5c68cf531761cb4cfa6779.jpg");
+	 background-repeat: round;
+	 left : 60%;
+	 border-radius : 10px;
+	 box-shadow:0px 0px 70px black;
+	
+	
+	
+ }
+ 
+ #naio
+ {
+	 position : relative;
+	 left : 25%;
+	top : 10px;
+ }
+ 
+ #naio img
+ {
+	 border-radius : 50%;
+	 width : 50%;
+ }
+
+#ecofi
+ {
+	 position : relative;
+	 left : 25%;
+	top : 10px;
+ }
+ 
+ #ecofi img
+ {
+	 border-radius : 50%;
+	 width : 50%;
+ }
+	 	 
+ 
+ 
+ nav p
+ {
+	 position : relative;
+	 color : black;
+	 font-family : font-family : Verdana, Geneva, sans-serif;
+	 
+ }
+ 
+ nav li
+ {
+	 font-family : font-family : Verdana, Geneva, sans-serif;
+	 font-size : 14px;
+	 color : black;
+ }
+ 
+ #fond1
+ {
+	 background-image : url("https://image.freepik.com/photos-gratuite/texture-fond-vert-clair-aquarelle_145343-667.jpg");
+	 position : relative;
+	 width : 80%;
+	 left : 9%;
+	 border-radius : 10px;
+	 border-style:solid;
+     border-image:url("https://image.freepik.com/photos-gratuite/texture-fond-vert-clair-aquarelle_145343-667.jpg");
+	 border-width : 5px;
+ }
+ 
+ #fond2
+ {
+	 background-image : url("https://image.freepik.com/photos-gratuite/texture-fond-vert-clair-aquarelle_145343-667.jpg");
+	 position : relative;
+	 width : 80%;
+	 left : 9%;
+	 border-radius : 10px;
+	  border-style:solid;
+     border-image : url("https://image.freepik.com/photos-gratuite/texture-fond-vert-clair-aquarelle_145343-667.jpg");
+	 border-width : 5px;
+ }
+ 
+ 
+ footer
+ {
+	 position : relative;
+	 background-color : #85D196;
+	 width : 50%;
+	 height : 80px;
+	 top : 1700px;
+	 border-radius : 20px;
+	 left : 1%;
+	 border-style:solid;
+     border-color: black;
+	 border-width : 5px;
+	 
+ }
+ 
+ footer p 
+ {
+	position : relative;
+    left : 2%;
+	top : 5px;
+	font-family : font-family : Verdana, Geneva, sans-serif;
+	
+ }
+ 
+
+	 
+	 
+
+
+ 
+ 
+	

@@ -1,0 +1,256 @@
+body
+{
+	margin:0;
+	padding:0;
+	
+}
+
+#background
+{
+	position : fixed;
+	top :0;
+	left : 0;
+	z-index : -1;
+	width : 100%;
+}
+
+#retour
+{
+	background-color :  #98ECCA;
+	width : 4%;
+	position : relative;
+	height : 20px;
+	border-width:3px;
+	border-style:solid;
+    border-color:  #2F956B;
+	border-radius : 10px;
+
+}
+
+#retour a
+{
+	position : relative;
+	color : green;
+	left : 9px;
+	font-family : Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	
+}
+
+#titre
+{
+	position : relative;
+	display : block;
+    margin : auto;
+	background-image : url("https://besthqwallpapers.com/Uploads/3-1-2021/150168/thumb2-turquoise-background-green-background-turquoise-green-gradient-creative-green-background.jpg");
+	border-width:4px;
+	border-style:solid;
+    border-color:  #2F956B;
+	border-radius : 30px;
+	width : 35%;
+}
+
+#titre h1
+{ 
+  position : relative;
+  font-size : 20px;
+  text-align: center;
+  color : white;
+  font-family : Arial;
+}
+
+
+
+section
+{
+	position : relative;
+	background-color :  #A4FFDA;
+	display : block;
+    margin : auto;
+	width : 70%;
+	top : 70px;
+	border-radius : 10px;
+	border-width:4px;
+	border-style:solid;
+    border-color:  #2F956B;
+	box-shadow:0px 0px 10px black;
+	
+}
+
+section h2
+{
+	position : relative;
+	text-align: center;
+	font-family : arial ;
+	color : green;
+}
+
+section p
+{
+	position : relative;
+	text-align: center;
+	font-family : Verdana, Geneva, sans-serif;
+	bottom : 15px;
+}
+
+nav
+{
+	position : relative;
+	width : 81.5%;
+	top : 140px;
+	background-image : url("https://besthqwallpapers.com/Uploads/3-1-2021/150168/thumb2-turquoise-background-green-background-turquoise-green-gradient-creative-green-background.jpg");
+	border-width:4px;
+	border-style:solid;
+    border-color: #2F956B;
+	box-shadow:0px 0px 10px black;
+    display : block;
+    margin : auto;
+}
+
+
+
+#ent1
+{
+	position : relative;
+	left : 2%;
+	background-color : #A4FFDA;
+	width : 43%;
+    box-shadow:0px 0px 10px black;
+}   
+
+#ent2
+{
+	position : absolute;
+	left : 55%;
+	background-color : #A4FFDA;
+	width : 43%;
+	bottom : 21%;
+    box-shadow:0px 0px 10px black;
+}  
+
+#compa
+{
+	position : fixed;
+	z-index : -1;
+	left : 42%;
+   
+}
+
+#compa img
+{
+	position : relative;
+	width : 90%;
+	bottom : 40px;
+	border-radius : 300px;
+	border-width:3px;
+	border-style:solid;
+    border-color:  #2F956B;
+}
+
+#compa2
+{
+	position : fixed;
+	z-index : -1;
+	left : 5%;
+   
+}
+
+#compa2 img
+{
+	position : relative;
+	width : 90%;
+	top: 30px;
+	border-radius :100%;
+	border-width:3px;
+	border-style:solid;
+    border-color:  #2F956B;
+}
+
+#compa3
+{
+	position : fixed;
+	z-index : -1;
+	left : 80%;
+   
+}
+
+#compa3 img
+{
+	position : relative;
+	width : 90%;
+	top: 30px;
+	border-radius : 100%;
+	border-width:3px;
+	border-style:solid;
+    border-color:  #2F956B;
+}
+
+
+nav p
+{
+	 position : relative;
+     text-align: center;
+	 font-family : Verdana, Geneva, sans-serif;
+}
+
+footer
+{
+	position : relative;
+	display : block;
+    margin : auto;
+	background-color : #A4FFDA;
+	width : 40%;
+	top : 190px;
+	text-align: center;
+	border-radius : 30px;
+	border-width:1px;
+	border-style:solid;
+    border-color: #2F956B;
+	box-shadow:0px 0px 10px black;
+}
+
+footer h2
+{
+	color : green;
+	font-family : Arial;
+}
+
+footer p
+{
+	font-family : Verdana, Geneva, sans-serif;
+}
+
+#ent1 h4
+{
+	position : relative;
+	left : 1%;
+	font-family : Arial;
+}
+
+#ent2 h2
+{
+	position : relative;
+	bottom : 10px;
+	color : #630808;
+	text-align: center;
+}
+
+#ent1 h2
+{
+	position : relative;
+	top : 5px;
+	color : #630808;
+	text-align: center;
+}
+
+#ent1 ul
+{
+	position : relative;
+	bottom : 40px;
+	font-family : Verdana, Geneva, sans-serif;
+}
+
+#ent1 h4
+{
+	font-family : Arial;
+}
